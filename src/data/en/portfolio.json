@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "image": "weather.png",
+            "title": "Weather App",
+            "description": "chrome extension to check the weather by entering the name of the country or city",
+            "link": {
+                "source": "https://github.com/agusefendy/weather-cek-extension",
+                "demo": ""
+            },
+            "detail": {
+                "description": "chrome extension to check the weather by entering the name of the country or city you want to know what the weather conditions are like, the weather information is taken from the openWeather API, and this application was made using html, CSS and javascript, why was it made in the form of a chrome extension? namely to make it easy to install and use. If you are curious and want to try it, click the source code button below to get the script, a guide on how to install it is already on GitHub. Oh yes, one more thing, to use it, make sure your laptop or computer is connected to the internet",
+                "image": ["weather/1.png", "weather/4.png", "weather/2.png", "weather/3.png"]
+            }
+        },
+        {
+            "image": "downloader.png",
+            "title": "Bot Telegram Downloader",
+            "description": "Telegram bot to download Instagram and TikTok videos by entering the URL",
+            "link": {
+                "source": "https://github.com/agusefendy/bot-telegram-downloader",
+                "demo": ""
+            },
+            "detail": {
+                "description": "Connect your Telegram bot to download Instagram and TikTok videos by entering the URL of the Instagram or TikTok post, created using NodeJS and the Telegraf library to connect to the Telegram bot, also using Cobalt tools. If you want to click the source code button, on GitHub there will be a guide for using it.",
+                "image": ["downloader/1.png", "downloader/2.png", "downloader/3.png"]
+            }
+        },
+        {
+            "image": "kalkulator.png",
+            "title": "Simple Kalkulator",
+            "description": "Simple calculator in the form of a chrome extension",
+            "link": {
+                "source": "https://github.com/agusefendy/simple-kalkulator",
+                "demo": ""
+            },
+            "detail": {
+                "description": "Simple calculator application in the form of a chrome extension, created using HTML, CSS and JavaScript. why is it made in the form of an extension? that is, to make it easy to install and use, download the source code by clicking the button below and follow the installation instructions there.",
+                "image": ["kalkulator/1.png", "kalkulator/2.png"]
+            }
+        }
+    ]
+}

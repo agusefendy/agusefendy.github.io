@@ -1,0 +1,47 @@
+{
+    "menu": {
+        "home": "Home",
+        "about": "About",
+        "portfolio": "Portfolio",
+        "skill": "Skills",
+        "contact": "Contact"
+    },
+    "haloHero": "Hi Everyone 👋, I'm",
+    "quoteHero": "Life is not fair, so get used to it.",
+    "buttonHero": "Contact Me",
+    "titleAbout": "About Me",
+    "label1About": "Hello, nice to meet you",
+    "description1About": "I'm Agus Efendi👋, a web developer from Bangkalan. Nice to meet you. A little story about programming, I prefer working on the backend rather than the frontend because I'm less creative when it comes to design but can still handle fullstack but with standard frontend design😁. If you have any questions, please contact me via the contact form or my social media.",
+    "label2About": "Let's be friends",
+    "description2About": "Life is partly what we make it, and partly made by the friends we choose. Follow me via social media below👇",
+    "labelPortfolio": "Latest Projects",
+    "descriptionPortfolio": "I haven't put some of the projects I've made here.",
+    "skill": {
+        "label": "Skill",
+        "slug": "Programming Skills",
+        "description": "Below are some programming languages ​​& frameworks that I started using based on time span.",
+        "html": "I've been using it for about 4 years",
+        "bootstrap": "I've been using it for about 4 years",
+        "javascript": "I've been using it for about 4 yearsn",
+        "php": "I've been using it for about 3 years",
+        "laravel": "I've been using it for about 1 years",
+        "codeigniter": "I've been using it for about 2 years",
+        "nodejs": "I've been using it for about 2 years",
+        "reactjs": "I've been using it for about 1 years"
+    },
+    "contact": {
+        "label": "Contact",
+        "slug": "Contact Me",
+        "description": "Write your message here or via email or via my social media✌️",
+        "name": "Name",
+        "message": "Message",
+        "button": "Send",
+        "success": "Message Sent, Thank you.",
+        "fail": "Oops, looks like there was a server error"
+    },
+    "footer": {
+        "madein": "Made with :",
+        "link": "Link",
+        "tutorial": "this website was created following a tutorial"
+    }
+}

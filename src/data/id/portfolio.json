@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "image": "weather.png",
+            "title": "Weather App",
+            "description": "chrome extension untuk cek cuaca dengan cara memasukkan nama negara atau kota",
+            "link": {
+                "source": "https://github.com/agusefendy/weather-cek-extension",
+                "demo": ""
+            },
+            "detail": {
+                "description": "chrome extension untuk cek cuaca dengan cara memasukkan nama negara atau kota yang ingin kamu ketahui sedang kondisi cuaca seperti apa, informasi cuacanya diambil dari API openWeather, dan aplikasi ini dibuat menggunakan html, css dan javascript, mengapa dibuat dalam bentuk chrome extension? yaitu agar mudah dalam menginstall dan menggunakannya. kalau kamu penasaran pengen nyoba klik tombol source code dibawah ini untuk mendapatkan scriptnya, panduan cara installnya udah ada di github. oh iya, satu hal lagi, untuk menggunakannya pastikan laptop atau komputermu terkoneksi ke internet yaa",
+                "image": ["weather/1.png", "weather/4.png", "weather/2.png", "weather/3.png"]
+            }
+        },
+        {
+            "image": "downloader.png",
+            "title": "Bot Telegram Downloader",
+            "description": "bot telegram untuk download video instagram dan tiktok dengan memasukkan url",
+            "link": {
+                "source": "https://github.com/agusefendy/bot-telegram-downloader",
+                "demo": ""
+            },
+            "detail": {
+                "description": "hubungkan bot telegram mu untuk download video instagram dan tiktok dengan memasukkan url postingan instagram atau tiktok, dibuat menggunakan nodeJS dan library Telegraf untuk terhubung ke bot telegramnya, juga menggunakan bantuan cobalt tools. kalau kamu mau klik tombol source code, di github nanti sudah ada panduan untuk penggunaanya.",
+                "image": ["downloader/1.png", "downloader/2.png", "downloader/3.png"]
+            }
+        },
+        {
+            "image": "kalkulator.png",
+            "title": "Simple Kalkulator",
+            "description": "kalkulator simple dalam bentuk chrome extension",
+            "link": {
+                "source": "https://github.com/agusefendy/simple-kalkulator",
+                "demo": ""
+            },
+            "detail": {
+                "description": "aplikasi kalkulator simple dalam bentuk chrome extension, dibuat menggunakan html, css dan javascript. mengapa dibuat dalam bentuk extension? yaitu agar mudah dalam menginstall dan menggunakannya, download source code nya dengan klik tombol dibawah dan ikuti cara install nya disana.",
+                "image": ["kalkulator/1.png", "kalkulator/2.png"]
+            }
+        }
+    ]
+}

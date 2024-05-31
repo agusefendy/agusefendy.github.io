@@ -1,0 +1,47 @@
+{
+    "menu": {
+        "home": "Beranda",
+        "about": "Tentang Saya",
+        "portfolio": "Portfolio",
+        "skill": "Keterampilan",
+        "contact": "Kontak"
+    },
+    "haloHero": "Halo Semua 👋, Saya",
+    "quoteHero": "Hidup Ini Memang Tidak Adil, Jadi Biasakanlah Dirimu.",
+    "buttonHero": "Hubungi Saya",
+    "titleAbout": "Tentang Saya",
+    "label1About": "Halooo, Salam Kenal Ya",
+    "description1About": "Saya Agus Efendi👋, Web developer asal bangkalan. Salam kenal yaa. Sedikit cerita tentang Programming, saya lebih suka bekerja dibagian backend daripada frontend karena saya kurang kreatif jika menyangkut masalah design namun tetap bisa menghandle fullstack tapi dengan design frontend standart😁. Jika ada yang ingin ditanyakan silahkan hubungi saya melalui contact form atau media sosial saya.",
+    "label2About": "Mari Berteman",
+    "description2About": "Hidup sebagian adalah apa yang kita buat, dan sebagian lagi dibuat oleh teman-teman yang kita pilih. Follow saya melalui sosial media dibawah ini👇",
+    "labelPortfolio": "Project Terbaru",
+    "descriptionPortfolio": "beberapa project yang pernah aku buat tak taruh sini ya.",
+    "skill": {
+        "label": "Keterampilan",
+        "slug": "Keterampilan Pemrograman",
+        "description": "Berikut adalah beberapa bahasa pemrograman & framework yang mulai saya gunakan berdasarkan rentang waktu.",
+        "html": "Sudah saya gunakan sekitar 4 tahun",
+        "bootstrap": "Sudah saya gunakan sekitar 4 tahun",
+        "javascript": "Sudah saya gunakan sekitar 4 tahun",
+        "php": "Sudah saya gunakan sekitar 3 tahun",
+        "laravel": "Sudah saya gunakan sekitar 1 tahun",
+        "codeigniter": "Sudah saya gunakan sekitar 2 tahun",
+        "nodejs": "Sudah saya gunakan sekitar 2 tahun",
+        "reactjs": "Sudah saya gunakan sekitar 1 tahun"
+    },
+    "contact": {
+        "label": "Kontak",
+        "slug": "Hubungi Saya",
+        "description": "Tulis pesan anda disini atau melalui email ataupun melalui sosial media saya✌️",
+        "name": "Nama",
+        "message": "Pesan",
+        "button": "Kirim",
+        "success": "Pesan Terkirim, Terimakasih.",
+        "fail": "Ups, sepertinya ada kesalahan server"
+    },
+    "footer": {
+        "madein": "Dibuat dengan :",
+        "link": "Tautan",
+        "tutorial": "web ini dibuat mengikuti tutorial"
+    }
+}
