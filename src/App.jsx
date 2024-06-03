@@ -151,16 +151,12 @@ function App() {
               <h2 className="font-medium text-slate-500 text-lg mb-5 animate__animated animate__fadeInUp">Web Developer</h2>
               <p className="font-medium text-slate-400 mb-10 leading-relaxed lg:text-2xl animate__animated animate__fadeInUp">{t('quoteHero')}</p>
               <a href="#contact" className="text-base font-semibold text-white bg-primary py-3 px-8 rounded-full hover:shadow-lg hover:opacity-80 transition duration-300 ease-in-out animate__animated animate__fadeInUp">{t('buttonHero')}</a>
-              <button onClick={() => changeLanguage(lang == "en" ? "id" : "en")} className="text-base font-semibold text-white bg-primary py-3 px-8 ml-2 rounded-full hover:shadow-lg hover:opacity-80 transition duration-300 ease-in-out animate__animated animate__fadeInUp">{lang == "en" ? "ID" : "EN"}</button>
+              <button type="button" onClick={() => changeLanguage(lang == "en" ? "id" : "en")} className="text-base font-semibold text-white bg-primary py-3 px-8 ml-2 rounded-full hover:shadow-lg hover:opacity-80 transition duration-300 ease-in-out animate__animated animate__fadeInUp">{lang == "en" ? "ID" : "EN"}</button>
             </div>
             <div className="w-full self-end px-4 lg:w-1/2 animate__animated animate__fadeInUp">
               <div className="relative mt-10 lg:mt-9 lg:right-0">
-                <img src="/img/mee.png" alt="Agus Efendi" className="max-w-full mx-auto relative z-10" />
-                <span className="absolute bottom-0 left-1/2 -translate-x-1/2 md:scale-125">
-                  <svg width="400" height="600" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                    <path fill="#14b8a6" d="M39.3,-63.3C53.6,-60,69.4,-54.6,72.2,-43.7C75,-32.8,64.7,-16.4,61.3,-2C57.8,12.4,61.1,24.8,57.2,33.7C53.3,42.7,42.1,48.2,31.4,52.8C20.7,57.4,10.3,61.2,-0.3,61.8C-11,62.3,-21.9,59.7,-29,52.9C-36,46.1,-39,35.2,-40.2,25.7C-41.5,16.2,-41,8.1,-47.8,-3.9C-54.6,-16,-68.8,-32,-70.1,-45.8C-71.3,-59.6,-59.6,-71.2,-45.7,-74.8C-31.9,-78.4,-16,-74,-1.7,-71C12.6,-68.1,25.1,-66.7,39.3,-63.3Z" transform="translate(100 100)" />
-                  </svg>
-                </span>
+                <img src="/img/me.png" alt="Agus Efendi" className="max-w-full mx-auto relative z-10" />
+
               </div>
             </div>
           </div>
