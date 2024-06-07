@@ -40,7 +40,7 @@ const Footer = () => {
                                     <img src="/img/skills/html.svg" alt="Html" className="max-w-[80px]" />
                                 </a>
                                 <a href="#" className="max-w-[120px] mx-6 py-4 grayscale opacity-60 transition duration-500 hover:grayscale-0 hover:opacity-100">
-                                    <img src="/img/skills/javascript.svg" alt="Js" className="max-w-[80px]" />
+                                    <img src="/img/skills/js.svg" alt="Js" className="max-w-[80px]" />
                                 </a>
                                 <a href="#" className="max-w-[120px] mx-6 py-4 grayscale opacity-60 transition duration-500 hover:grayscale-0 hover:opacity-100">
                                     <img src="/img/skills/tailwind.svg" alt="Tailwind" className="max-w-[80px]" />

@@ -2,48 +2,8 @@ import { useTranslation } from "react-i18next";
 
 const Skill = () => {
     const { t } = useTranslation()
-    const skills = {
-        html: {
-            img: "/img/skills/html.svg",
-            label: "HTML",
-            slug: t('skill.html')
-        },
-        bootstrap: {
-            img: "/img/skills/Bootstrap.svg",
-            label: "Bootstrap",
-            slug: t('skill.bootstrap')
-        },
-        javascript: {
-            img: "/img/skills/javascript.svg",
-            label: "Javascript",
-            slug: t('skill.javascript')
-        },
-        php: {
-            img: "/img/skills/php.svg",
-            label: "PHP",
-            slug: t('skill.php')
-        },
-        laravel: {
-            img: "/img/skills/Laravel.svg",
-            label: "Laravel",
-            slug: t('skill.laravel')
-        },
-        codeigniter: {
-            img: "/img/skills/codeigniter.svg",
-            label: "Codeigniter",
-            slug: t('skill.codeigniter')
-        },
-        nodejs: {
-            img: "/img/skills/nodejs.svg",
-            label: "NodeJS",
-            slug: t('skill.nodejs')
-        },
-        reactjs: {
-            img: "/img/skills/react.svg",
-            label: "ReactJS",
-            slug: t('skill.reactjs')
-        },
-    }
+    const skills = ["/img/skills/html.svg", "/img/skills/Bootstrap.svg", "/img/skills/tailwind.svg", "/img/skills/js.svg", "/img/skills/php.svg", "/img/skills/Laravel.svg", "/img/skills/codeigniter.svg", "/img/skills/nodejs.svg", "/img/skills/express.svg", "/img/skills/react.svg"]
+
     return (
         <>
             <section id="skills" className="pt-36 pb-32 bg-slate-700 dark:bg-slate-300">
@@ -56,7 +16,18 @@ const Skill = () => {
                         </div>
                     </div>
                     <div className="w-full px-4">
-                        <div className="flex flex-wrap items-center justify-center">
+
+                        <div className="flex flex-wrap justify-center items-center mx-auto lg:w-full md:w-5/6 xl:shadow-small-blue">
+
+                            {skills.map((item, index) => (
+                                <div key={index} className="block w-1/2 py-10 text-center lg:w-1/4 ">
+                                    <img src={item} className="block mx-auto max-w-[120px] transform hover:scale-110 transition duration-300 ease-in-out" width="208" height="217" />
+                                </div>
+                            ))}
+
+                        </div>
+
+                        {/* <div className="flex flex-wrap items-center justify-center">
                             {Object.entries(skills).map(([key, value]) => (
                                 <div key={key} className="w-full px-4 lg:w-1/2 xl:w-1/3 mb-5">
                                     <div className="flex rounded-lg bg-white dark:bg-slate-400 md:max-w-xl md:flex-row">
@@ -76,7 +47,7 @@ const Skill = () => {
                             ))}
 
 
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </section>

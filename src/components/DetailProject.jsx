@@ -1,4 +1,4 @@
-import { Link, useParams } from "react-router-dom"
+import { Link, useNavigate, useParams } from "react-router-dom"
 import { useEffect, useState } from "react"
 import { useTranslation } from "react-i18next"
 
@@ -12,6 +12,7 @@ const Detail = () => {
     const [source, setSource] = useState('')
     const [demo, setDemo] = useState('')
     const portfolio = t('data', { ns: "port", returnObjects: true })
+    const navigate = useNavigate()
 
     useEffect(() => {
         window.onscroll = function () {
@@ -27,6 +28,11 @@ const Detail = () => {
                 }
             }
         };
+
+        if (!portfolio[id]) {
+            navigate("/notfound")
+            return
+        }
 
         setImg(portfolio[id].img)
         setTitle(portfolio[id].title)

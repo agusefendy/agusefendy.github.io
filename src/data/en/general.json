@@ -19,15 +19,7 @@
     "skill": {
         "label": "Skill",
         "slug": "Programming Skills",
-        "description": "Below are some programming languages ​​& frameworks that I started using based on time span.",
-        "html": "I've been using it for about 4 years",
-        "bootstrap": "I've been using it for about 4 years",
-        "javascript": "I've been using it for about 4 yearsn",
-        "php": "I've been using it for about 3 years",
-        "laravel": "I've been using it for about 1 years",
-        "codeigniter": "I've been using it for about 2 years",
-        "nodejs": "I've been using it for about 2 years",
-        "reactjs": "I've been using it for about 1 years"
+        "description": "Below are several programming languages ​​& frameworks that I have used or studied"
     },
     "contact": {
         "label": "Contact",

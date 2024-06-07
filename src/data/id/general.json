@@ -19,15 +19,7 @@
     "skill": {
         "label": "Keterampilan",
         "slug": "Keterampilan Pemrograman",
-        "description": "Berikut adalah beberapa bahasa pemrograman & framework yang mulai saya gunakan berdasarkan rentang waktu.",
-        "html": "Sudah saya gunakan sekitar 4 tahun",
-        "bootstrap": "Sudah saya gunakan sekitar 4 tahun",
-        "javascript": "Sudah saya gunakan sekitar 4 tahun",
-        "php": "Sudah saya gunakan sekitar 3 tahun",
-        "laravel": "Sudah saya gunakan sekitar 1 tahun",
-        "codeigniter": "Sudah saya gunakan sekitar 2 tahun",
-        "nodejs": "Sudah saya gunakan sekitar 2 tahun",
-        "reactjs": "Sudah saya gunakan sekitar 1 tahun"
+        "description": "Berikut adalah beberapa bahasa pemrograman & framework yang pernah saya gunakan ataupun saya pelajari"
     },
     "contact": {
         "label": "Kontak",
