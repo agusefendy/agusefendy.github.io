@@ -148,7 +148,7 @@ function App() {
           <div className="flex flex-wrap">
             <div className="w-full self-center px-4 lg:w-1/2">
               <h1 className="text-base font-semibold text-primary md:text-xl animate__animated animate__tada">{t('haloHero')} <span className="block font-bold text-dark text-4xl mt-1 mb-2 lg:text-5xl dark:text-white"> Agus Efendi </span></h1>
-              <h2 className="font-medium text-slate-500 text-lg mb-5 animate__animated animate__fadeInUp">Web Developer</h2>
+              <h2 className="font-medium text-slate-500 text-lg mb-5 animate__animated animate__fadeInUp">Software Engineer</h2>
               <p className="font-medium text-slate-400 mb-10 leading-relaxed lg:text-2xl animate__animated animate__fadeInUp">{t('quoteHero')}</p>
               <a href="#contact" className="text-base font-semibold text-white bg-primary py-3 px-8 rounded-full hover:shadow-lg hover:opacity-80 transition duration-300 ease-in-out animate__animated animate__fadeInUp">{t('buttonHero')}</a>
               <button type="button" onClick={() => changeLanguage(lang == "en" ? "id" : "en")} className="text-base font-semibold text-white bg-primary py-3 px-8 ml-2 rounded-full hover:shadow-lg hover:opacity-80 transition duration-300 ease-in-out animate__animated animate__fadeInUp">{lang == "en" ? "ID" : "EN"}</button>
