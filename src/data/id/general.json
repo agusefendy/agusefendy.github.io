@@ -1,39 +1,39 @@
 {
-    "menu": {
-        "home": "Beranda",
-        "about": "Tentang Saya",
-        "portfolio": "Portfolio",
-        "skill": "Keterampilan",
-        "contact": "Kontak"
-    },
-    "haloHero": "Halo Semua 👋, Saya",
-    "quoteHero": "Hidup Ini Memang Tidak Adil, Jadi Biasakanlah Dirimu.",
-    "buttonHero": "Hubungi Saya",
-    "titleAbout": "Tentang Saya",
-    "label1About": "Halooo, Salam Kenal Ya",
-    "description1About": "Saya Agus Efendi👋, Web developer asal bangkalan. Salam kenal yaa. Sedikit cerita tentang Programming, saya lebih suka bekerja dibagian backend daripada frontend karena saya kurang kreatif jika menyangkut masalah design namun tetap bisa menghandle fullstack tapi dengan design frontend standart😁. Jika ada yang ingin ditanyakan silahkan hubungi saya melalui contact form atau media sosial saya.",
-    "label2About": "Mari Berteman",
-    "description2About": "Hidup sebagian adalah apa yang kita buat, dan sebagian lagi dibuat oleh teman-teman yang kita pilih. Follow saya melalui sosial media dibawah ini👇",
-    "labelPortfolio": "Project Terbaru",
-    "descriptionPortfolio": "beberapa project yang pernah aku buat tak taruh sini ya.",
-    "skill": {
-        "label": "Keterampilan",
-        "slug": "Keterampilan Pemrograman",
-        "description": "Berikut adalah beberapa bahasa pemrograman & framework yang pernah saya gunakan ataupun saya pelajari"
-    },
-    "contact": {
-        "label": "Kontak",
-        "slug": "Hubungi Saya",
-        "description": "Tulis pesan anda disini atau melalui email ataupun melalui sosial media saya✌️",
-        "name": "Nama",
-        "message": "Pesan",
-        "button": "Kirim",
-        "success": "Pesan Terkirim, Terimakasih.",
-        "fail": "Ups, sepertinya ada kesalahan server"
-    },
-    "footer": {
-        "madein": "Dibuat dengan :",
-        "link": "Tautan",
-        "tutorial": "web ini dibuat mengikuti tutorial"
-    }
+  "menu": {
+    "home": "Beranda",
+    "about": "Tentang Saya",
+    "portfolio": "Portfolio",
+    "skill": "Keterampilan",
+    "contact": "Kontak"
+  },
+  "haloHero": "Halo Semua 👋, Saya",
+  "quoteHero": "Hidup Ini Memang Tidak Adil, Jadi Biasakanlah Dirimu.",
+  "buttonHero": "Hubungi Saya",
+  "titleAbout": "Tentang Saya",
+  "label1About": "Halo, Salam Kenal Ya",
+  "description1About": "Halo, saya Agus Efendi, seorang web developer yang berfokus pada pengembangan aplikasi yang scalable dan andal. Saya memiliki spesialisasi di backend development, dengan minat pada perancangan sistem, alur data, serta optimasi performa, dan terbiasa mengubah kebutuhan yang kompleks menjadi solusi yang terstruktur dan efisien. Selain itu, saya juga mampu bekerja secara fullstack untuk membangun aplikasi web secara menyeluruh dengan tampilan yang bersih, fungsional, dan mudah digunakan. Saya terus mengembangkan kemampuan melalui berbagai proyek, dengan fokus pada penulisan kode yang terstruktur, efisien, dan mudah dikembangkan, serta terbuka untuk peluang kerja, kolaborasi, maupun proyek pengembangan.",
+  "label2About": "Mari Terhubung",
+  "description2About": "Saya percaya bahwa perjalanan dan perkembangan tidak hanya ditentukan oleh diri sendiri, tetapi juga oleh lingkungan dan orang-orang di sekitar kita. Membangun koneksi yang baik dapat membuka peluang, berbagi wawasan, serta saling berkembang ke arah yang lebih baik. Jangan ragu untuk terhubung atau mengikuti saya melalui sosial media di bawah ini, karena saya terbuka untuk diskusi, kolaborasi, maupun sekadar bertukar pengalaman. Temukan saya di sini 👇",
+  "labelPortfolio": "Project Terbaru",
+  "descriptionPortfolio": "Beberapa proyek yang telah saya kerjakan sebagai representasi pengalaman dalam membangun aplikasi yang fungsional dan praktis.",
+  "skill": {
+    "label": "Keterampilan",
+    "slug": "Keterampilan Pemrograman",
+    "description": "Berikut adalah beberapa bahasa pemrograman & framework yang pernah saya gunakan ataupun saya pelajari"
+  },
+  "contact": {
+    "label": "Kontak",
+    "slug": "Hubungi Saya",
+    "description": "Tulis pesan anda disini atau melalui email ataupun melalui sosial media saya✌️",
+    "name": "Nama",
+    "message": "Pesan",
+    "button": "Kirim",
+    "success": "Pesan Terkirim, Terimakasih.",
+    "fail": "Ups, sepertinya ada kesalahan server"
+  },
+  "footer": {
+    "madein": "Dibuat dengan :",
+    "link": "Tautan",
+    "tutorial": "web ini dibuat mengikuti tutorial"
+  }
 }

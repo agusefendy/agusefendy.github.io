@@ -1,43 +1,44 @@
 {
-    "data": [
-        {
-            "image": "weather.png",
-            "title": "Weather App",
-            "description": "chrome extension to check the weather by entering the name of the country or city",
-            "link": {
-                "source": "https://github.com/agusefendy/weather-cek-extension",
-                "demo": ""
-            },
-            "detail": {
-                "description": "chrome extension to check the weather by entering the name of the country or city you want to know what the weather conditions are like, the weather information is taken from the openWeather API, and this application was made using html, CSS and javascript, why was it made in the form of a chrome extension? namely to make it easy to install and use. If you are curious and want to try it, click the source code button below to get the script, a guide on how to install it is already on GitHub. Oh yes, one more thing, to use it, make sure your laptop or computer is connected to the internet",
-                "image": ["weather/1.png", "weather/4.png", "weather/2.png", "weather/3.png"]
-            }
-        },
-        {
-            "image": "downloader.png",
-            "title": "Bot Telegram Downloader",
-            "description": "Telegram bot to download Instagram and TikTok videos by entering the URL",
-            "link": {
-                "source": "https://github.com/agusefendy/bot-telegram-downloader",
-                "demo": ""
-            },
-            "detail": {
-                "description": "Connect your Telegram bot to download Instagram and TikTok videos by entering the URL of the Instagram or TikTok post, created using NodeJS and the Telegraf library to connect to the Telegram bot, also using Cobalt tools. If you want to click the source code button, on GitHub there will be a guide for using it.",
-                "image": ["downloader/1.png", "downloader/2.png", "downloader/3.png"]
-            }
-        },
-        {
-            "image": "kalkulator.png",
-            "title": "Simple Kalkulator",
-            "description": "Simple calculator in the form of a chrome extension",
-            "link": {
-                "source": "https://github.com/agusefendy/simple-kalkulator",
-                "demo": ""
-            },
-            "detail": {
-                "description": "Simple calculator application in the form of a chrome extension, created using HTML, CSS and JavaScript. why is it made in the form of an extension? that is, to make it easy to install and use, download the source code by clicking the button below and follow the installation instructions there.",
-                "image": ["kalkulator/1.png", "kalkulator/2.png"]
-            }
-        }
-    ]
+  "data": [
+    {
+      "title": "E-Absen",
+      "description": "A web-based attendance system utilizing QR codes to streamline check-in and improve attendance tracking efficiency.",
+      "image": "eabsen.png",
+      "github": "https://github.com/agusefendy/E-absen",
+      "stack": ["HTML", "CSS", "JS", "PHP"],
+      "category": "Web"
+    },
+    {
+      "title": "LPMO",
+      "description": "A web-based public complaint management system designed to facilitate reporting, tracking, and handling of community issues.",
+      "image": "lpmo.png",
+      "github": "https://github.com/agusefendy/LPMO",
+      "stack": ["HTML", "CSS", "JS", "PHP"],
+      "category": "Web"
+    },
+    {
+      "title": "Weather App",
+      "description": "A Chrome extension that enables users to quickly check weather conditions by city or country through a simple interface.",
+      "image": "weather.png",
+      "github": "https://github.com/agusefendy/weather-cek-extension",
+      "stack": ["HTML", "CSS", "JS", "Extension"],
+      "category": "Extension"
+    },
+    {
+      "title": "Bot Telegram Downloader",
+      "description": "A Telegram bot that allows users to download videos from Instagram and TikTok by simply providing the URL.",
+      "image": "downloader.png",
+      "github": "https://github.com/agusefendy/bot-telegram-downloader",
+      "stack": ["JS", "Telegram"],
+      "category": "Bot"
+    },
+    {
+      "title": "Simple Calculator",
+      "description": "A lightweight calculator application built as a Chrome extension with a simple and user-friendly interface.",
+      "image": "kalkulator.png",
+      "github": "https://github.com/agusefendy/simple-kalkulator",
+      "stack": ["HTML", "CSS", "JS", "Extension"],
+      "category": "Extension"
+    }
+  ]
 }
