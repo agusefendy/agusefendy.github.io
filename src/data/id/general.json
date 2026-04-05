@@ -32,8 +32,6 @@
     "fail": "Ups, sepertinya ada kesalahan server"
   },
   "footer": {
-    "madein": "Dibuat dengan :",
-    "link": "Tautan",
-    "tutorial": "web ini dibuat mengikuti tutorial"
+    "slug": "Pengembang web yang berfokus pada pembuatan aplikasi yang fungsional dan efisien."
   }
 }

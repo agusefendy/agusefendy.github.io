@@ -32,8 +32,6 @@
     "fail": "Oops, looks like there was a server error"
   },
   "footer": {
-    "madein": "Made with :",
-    "link": "Link",
-    "tutorial": "this website was created following a tutorial"
+    "slug": "Web Developer focused on building functional and efficient applications."
   }
 }
